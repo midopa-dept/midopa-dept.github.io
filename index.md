@@ -15,5 +15,5 @@ I am an independent researcher interested in reliable and verifiable workflows f
 
 ## Links
 
-- ORCID: https://orcid.org/0009-0006-9062-8353
-- GitHub: https://github.com/midopa-dept
+- ORCID: [0009-0006-9062-8353](https://orcid.org/0009-0006-9062-8353)
+- GitHub: [midopa-dept](https://github.com/midopa-dept)
